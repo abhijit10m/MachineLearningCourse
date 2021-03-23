@@ -1,0 +1,35 @@
+Loading data from: /Users/bhatnaa/Documents/uw/csep546/module1/MachineLearningCourse/MachineLearningCourse/MLProjectSupport/SMSSpam/dataset/SMSSpamCollection
+17:18:16: swept stepsize output
+17:18:16: {'stepSize': 5.0, 'convergence': 0.005, 'numFrequentWords': 0, 'numMutualInformationWords': 20, 'condifenceInterval': 0.0025332991843903807}
+LogisticRegression converged in 60 steps (5.35 seconds) -- 20 features. Hyperparameters: stepSize=5.000000 and convergence=0.005000.
+w0: -3.201810 w1: 2.165841 w2: 1.196709 w3: 1.784689 w4: 1.484057 w5: 1.396066 w6: 1.119378 w7: 1.274709 w8: 1.210676 w9: 1.689515 w10: 1.511261 w11: 1.252374 w12: -1.708238 w13: 1.367494 w14: 0.749702 w15: 1.301193 w16: 0.743165 w17: 1.086236 w18: 0.630704 w19: 0.933461 w20: 1.168896 
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 51        | False negetive : 36           |
+| Someone actually is not there | False positive : 6        | True negetive : 454           |
+Accuracy: 0.923217550274223
+Precision: 0.8947368421052632
+Recall: 0.5862068965517241
+FPR: 0.013043478260869565
+FNR: 0.41379310344827586
+LogisticRegression converged in 70 steps (95.11 seconds) -- 20 features. Hyperparameters: stepSize=4.000000 and convergence=0.005000.
+LogisticRegression converged in 70 steps (94.57 seconds) -- 20 features. Hyperparameters: stepSize=4.000000 and convergence=0.005000.
+LogisticRegression converged in 70 steps (95.83 seconds) -- 20 features. Hyperparameters: stepSize=4.000000 and convergence=0.005000.
+LogisticRegression converged in 70 steps (94.26 seconds) -- 20 features. Hyperparameters: stepSize=4.000000 and convergence=0.005000.
+LogisticRegression converged in 70 steps (94.77 seconds) -- 20 features. Hyperparameters: stepSize=4.000000 and convergence=0.005000.
+LogisticRegression converged in 120 steps (133.85 seconds) -- 20 features. Hyperparameters: stepSize=0.100000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (160.97 seconds) -- 20 features. Hyperparameters: stepSize=0.100000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (161.40 seconds) -- 20 features. Hyperparameters: stepSize=0.100000 and convergence=0.005000.
+LogisticRegression converged in 140 steps (162.77 seconds) -- 20 features. Hyperparameters: stepSize=0.100000 and convergence=0.005000.
+LogisticRegression converged in 140 steps (163.06 seconds) -- 20 features. Hyperparameters: stepSize=0.100000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (159.98 seconds) -- 20 features. Hyperparameters: stepSize=0.400000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (163.16 seconds) -- 20 features. Hyperparameters: stepSize=0.400000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (164.54 seconds) -- 20 features. Hyperparameters: stepSize=0.400000 and convergence=0.005000.
+LogisticRegression converged in 140 steps (166.40 seconds) -- 20 features. Hyperparameters: stepSize=0.400000 and convergence=0.005000.
+LogisticRegression converged in 140 steps (165.76 seconds) -- 20 features. Hyperparameters: stepSize=0.400000 and convergence=0.005000.
+LogisticRegression converged in 130 steps (159.44 seconds) -- 20 features. Hyperparameters: stepSize=0.200000 and convergence=0.005000.
+LogisticRegression converged in 140 steps (170.55 seconds) -- 20 features. Hyperparameters: stepSize=0.200000 and convergence=0.005000.
+LogisticRegression converged in 150 steps (171.99 seconds) -- 20 features. Hyperparameters: stepSize=0.200000 and convergence=0.005000.
+LogisticRegression converged in 150 steps (174.21 seconds) -- 20 features. Hyperparameters: stepSize=0.200000 and convergence=0.005000.
+LogisticRegression converged in 150 steps (171.52 seconds) -- 20 features. Hyperparameters: stepSize=0.200000 and convergence=0.005000.

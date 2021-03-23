@@ -1,0 +1,596 @@
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 0         | False negetive : 6073         |
+| Someone actually is not there | False positive : 0        | True negetive : 19176         |
+Accuracy: 0.7594756227969425
+Precision: None
+Recall: 0.0
+FPR: 0.0
+FNR: 1.0
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 0         | False negetive : 747          |
+| Someone actually is not there | False positive : 0        | True negetive : 2409          |
+Accuracy: 0.7633079847908745
+Precision: None
+Recall: 0.0
+FPR: 0.0
+FNR: 1.0
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 2522      | False negetive : 3551         |
+| Someone actually is not there | False positive : 950      | True negetive : 18226         |
+Accuracy: 0.8217355142777932
+Precision: 0.7263824884792627
+Recall: 0.41528075086448213
+FPR: 0.04954109303295787
+FNR: 0.5847192491355179
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 286       | False negetive : 461          |
+| Someone actually is not there | False positive : 117      | True negetive : 2292          |
+Accuracy: 0.8168567807351077
+Precision: 0.7096774193548387
+Recall: 0.3828647925033467
+FPR: 0.048567870485678705
+FNR: 0.6171352074966533
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 2940      | False negetive : 3133         |
+| Someone actually is not there | False positive : 868      | True negetive : 18308         |
+Accuracy: 0.8415382787437127
+Precision: 0.7720588235294118
+Recall: 0.4841099950601021
+FPR: 0.04526491447642887
+FNR: 0.5158900049398979
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 351       | False negetive : 396          |
+| Someone actually is not there | False positive : 111      | True negetive : 2298          |
+Accuracy: 0.8393536121673004
+Precision: 0.7597402597402597
+Recall: 0.46987951807228917
+FPR: 0.0460772104607721
+FNR: 0.5301204819277109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 2996      | False negetive : 3077         |
+| Someone actually is not there | False positive : 895      | True negetive : 18281         |
+Accuracy: 0.8426868390827359
+Precision: 0.769982009766127
+Recall: 0.49333113782315163
+FPR: 0.046672924488944514
+FNR: 0.5066688621768484
+
+
+
+
+  
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 356       | False negetive : 391          |
+| Someone actually is not there | False positive : 113      | True negetive : 2296          |
+Accuracy: 0.8403041825095057
+Precision: 0.7590618336886994
+Recall: 0.47657295850066933
+FPR: 0.04690743046907431
+FNR: 0.5234270414993306
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3136      | False negetive : 2937         |
+| Someone actually is not there | False positive : 895      | True negetive : 18281         |
+Accuracy: 0.8482316131331934
+Precision: 0.7779707268667825
+Recall: 0.5163839947307756
+FPR: 0.046672924488944514
+FNR: 0.48361600526922444
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 375       | False negetive : 372          |
+| Someone actually is not there | False positive : 115      | True negetive : 2294          |
+Accuracy: 0.8456907477820025
+Precision: 0.7653061224489796
+Recall: 0.5020080321285141
+FPR: 0.047737650477376506
+FNR: 0.4979919678714859
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3129      | False negetive : 2944         |
+| Someone actually is not there | False positive : 869      | True negetive : 18307         |
+Accuracy: 0.8489841181828983
+Precision: 0.7826413206603302
+Recall: 0.5152313518853944
+FPR: 0.04531706299541093
+FNR: 0.4847686481146056
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 372       | False negetive : 375          |
+| Someone actually is not there | False positive : 114      | True negetive : 2295          |
+Accuracy: 0.8450570342205324
+Precision: 0.7654320987654321
+Recall: 0.4979919678714859
+FPR: 0.047322540473225407
+FNR: 0.5020080321285141
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3332      | False negetive : 2741         |
+| Someone actually is not there | False positive : 1002     | True negetive : 18174         |
+Accuracy: 0.8517565052081271
+Precision: 0.768804799261652
+Recall: 0.548657994401449
+FPR: 0.05225281602002503
+FNR: 0.451342005598551
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 398       | False negetive : 349          |
+| Someone actually is not there | False positive : 133      | True negetive : 2276          |
+Accuracy: 0.8472750316856781
+Precision: 0.7495291902071564
+Recall: 0.5327978580990629
+FPR: 0.05520963055209631
+FNR: 0.46720214190093706
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3297      | False negetive : 2776         |
+| Someone actually is not there | False positive : 963      | True negetive : 18213         |
+Accuracy: 0.8519149273238544
+Precision: 0.773943661971831
+Recall: 0.5428947801745431
+FPR: 0.050219023779724654
+FNR: 0.45710521982545693
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 396       | False negetive : 351          |
+| Someone actually is not there | False positive : 123      | True negetive : 2286          |
+Accuracy: 0.8498098859315589
+Precision: 0.7630057803468208
+Recall: 0.5301204819277109
+FPR: 0.05105853051058531
+FNR: 0.46987951807228917
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3354      | False negetive : 2719         |
+| Someone actually is not there | False positive : 978      | True negetive : 18198         |
+Accuracy: 0.8535783595389916
+Precision: 0.7742382271468145
+Recall: 0.5522805862012186
+FPR: 0.05100125156445557
+FNR: 0.4477194137987815
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 401       | False negetive : 346          |
+| Someone actually is not there | False positive : 121      | True negetive : 2288          |
+Accuracy: 0.8520278833967047
+Precision: 0.7681992337164751
+Recall: 0.536813922356091
+FPR: 0.0502283105022831
+FNR: 0.46318607764390896
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3338      | False negetive : 2735         |
+| Someone actually is not there | False positive : 919      | True negetive : 18257         |
+Accuracy: 0.8552813972830607
+Precision: 0.7841202724923655
+Recall: 0.5496459739832044
+FPR: 0.047924488944513975
+FNR: 0.45035402601679564
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 397       | False negetive : 350          |
+| Someone actually is not there | False positive : 114      | True negetive : 2295          |
+Accuracy: 0.85297845373891
+Precision: 0.776908023483366
+Recall: 0.5314591700133868
+FPR: 0.047322540473225407
+FNR: 0.4685408299866131
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3544      | False negetive : 2529         |
+| Someone actually is not there | False positive : 1114     | True negetive : 18062         |
+Accuracy: 0.8557170581013109
+Precision: 0.7608415629025332
+Recall: 0.5835666062901367
+FPR: 0.05809345014601585
+FNR: 0.4164333937098633
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 415       | False negetive : 332          |
+| Someone actually is not there | False positive : 143      | True negetive : 2266          |
+Accuracy: 0.8494930291508238
+Precision: 0.7437275985663082
+Recall: 0.5555555555555556
+FPR: 0.0593607305936073
+FNR: 0.4444444444444444
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3541      | False negetive : 2532         |
+| Someone actually is not there | False positive : 1112     | True negetive : 18064         |
+Accuracy: 0.8556774525723791
+Precision: 0.7610143993122717
+Recall: 0.583072616499259
+FPR: 0.05798915310805173
+FNR: 0.416927383500741
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 414       | False negetive : 333          |
+| Someone actually is not there | False positive : 142      | True negetive : 2267          |
+Accuracy: 0.8494930291508238
+Precision: 0.7446043165467626
+Recall: 0.5542168674698795
+FPR: 0.0589456205894562
+FNR: 0.4457831325301205
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3566      | False negetive : 2507         |
+| Someone actually is not there | False positive : 1122     | True negetive : 18054         |
+Accuracy: 0.8562715355063567
+Precision: 0.7606655290102389
+Recall: 0.5871891980899061
+FPR: 0.05851063829787234
+FNR: 0.41281080191009384
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 420       | False negetive : 327          |
+| Someone actually is not there | False positive : 147      | True negetive : 2262          |
+Accuracy: 0.8498098859315589
+Precision: 0.7407407407407407
+Recall: 0.5622489959839357
+FPR: 0.06102117061021171
+FNR: 0.43775100401606426
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3530      | False negetive : 2543         |
+| Someone actually is not there | False positive : 1070     | True negetive : 18106         |
+Accuracy: 0.8569052239692662
+Precision: 0.7673913043478261
+Recall: 0.5812613205993743
+FPR: 0.05579891531080517
+FNR: 0.4187386794006257
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 416       | False negetive : 331          |
+| Someone actually is not there | False positive : 137      | True negetive : 2272          |
+Accuracy: 0.8517110266159695
+Precision: 0.7522603978300181
+Recall: 0.5568942436412316
+FPR: 0.056870070568700706
+FNR: 0.4431057563587684
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3582      | False negetive : 2491         |
+| Someone actually is not there | False positive : 1131     | True negetive : 18045         |
+Accuracy: 0.8565487742088795
+Precision: 0.7600254614894971
+Recall: 0.5898238103079203
+FPR: 0.05897997496871089
+FNR: 0.4101761896920797
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 421       | False negetive : 326          |
+| Someone actually is not there | False positive : 146      | True negetive : 2263          |
+Accuracy: 0.8504435994930292
+Precision: 0.7425044091710759
+Recall: 0.5635876840696118
+FPR: 0.06060606060606061
+FNR: 0.4364123159303882
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3513      | False negetive : 2560         |
+| Someone actually is not there | False positive : 1053     | True negetive : 18123         |
+Accuracy: 0.8569052239692662
+Precision: 0.7693823915900131
+Recall: 0.5784620451177342
+FPR: 0.05491239048811014
+FNR: 0.42153795488226575
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 416       | False negetive : 331          |
+| Someone actually is not there | False positive : 136      | True negetive : 2273          |
+Accuracy: 0.8520278833967047
+Precision: 0.7536231884057971
+Recall: 0.5568942436412316
+FPR: 0.05645496056454961
+FNR: 0.4431057563587684
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3566      | False negetive : 2507         |
+| Someone actually is not there | False positive : 1112     | True negetive : 18064         |
+Accuracy: 0.8566675907956751
+Precision: 0.7622915775972637
+Recall: 0.5871891980899061
+FPR: 0.05798915310805173
+FNR: 0.41281080191009384
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 421       | False negetive : 326          |
+| Someone actually is not there | False positive : 145      | True negetive : 2264          |
+Accuracy: 0.8507604562737643
+Precision: 0.7438162544169611
+Recall: 0.5635876840696118
+FPR: 0.06019095060190951
+FNR: 0.4364123159303882
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3586      | False negetive : 2487         |
+| Someone actually is not there | False positive : 1132     | True negetive : 18044         |
+Accuracy: 0.8566675907956751
+Precision: 0.7600678253497245
+Recall: 0.5904824633624238
+FPR: 0.05903212348769295
+FNR: 0.4095175366375762
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 422       | False negetive : 325          |
+| Someone actually is not there | False positive : 147      | True negetive : 2262          |
+Accuracy: 0.8504435994930292
+Precision: 0.7416520210896309
+Recall: 0.5649263721552878
+FPR: 0.06102117061021171
+FNR: 0.4350736278447122
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3573      | False negetive : 2500         |
+| Someone actually is not there | False positive : 1120     | True negetive : 18056         |
+Accuracy: 0.8566279852667432
+Precision: 0.7613466865544428
+Recall: 0.5883418409352873
+FPR: 0.05840634125990822
+FNR: 0.41165815906471265
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 422       | False negetive : 325          |
+| Someone actually is not there | False positive : 147      | True negetive : 2262          |
+Accuracy: 0.8504435994930292
+Precision: 0.7416520210896309
+Recall: 0.5649263721552878
+FPR: 0.06102117061021171
+FNR: 0.4350736278447122
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3576      | False negetive : 2497         |
+| Someone actually is not there | False positive : 1114     | True negetive : 18062         |
+Accuracy: 0.8569844350271298
+Precision: 0.7624733475479745
+Recall: 0.588835830726165
+FPR: 0.05809345014601585
+FNR: 0.41116416927383503
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 423       | False negetive : 324          |
+| Someone actually is not there | False positive : 146      | True negetive : 2263          |
+Accuracy: 0.8510773130544994
+Precision: 0.7434094903339191
+Recall: 0.5662650602409639
+FPR: 0.06060606060606061
+FNR: 0.43373493975903615
+
+
+^[[2~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^[[A
+
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3583      | False negetive : 2490         |
+| Someone actually is not there | False positive : 1127     | True negetive : 18049         |
+Accuracy: 0.8567468018535388
+Precision: 0.7607218683651805
+Recall: 0.5899884735715462
+FPR: 0.058771380892782644
+FNR: 0.4100115264284538
+
+
+
+
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 424       | False negetive : 323          |
+| Someone actually is not there | False positive : 147      | True negetive : 2262          |
+Accuracy: 0.8510773130544994
+Precision: 0.7425569176882661
+Recall: 0.5676037483266398
+FPR: 0.06102117061021171
+FNR: 0.4323962516733601
+yValues_train % [0.7594756227969425, 0.8217355142777932, 0.8415382787437127, 0.8426868390827359, 0.8482316131331934, 0.8489841181828983, 0.8517565052081271, 0.8519149273238544, 0.8535783595389916, 0.8552813972830607, 0.8557170581013109, 0.8556774525723791, 0.8562715355063567, 0.8569052239692662, 0.8565487742088795, 0.8569052239692662, 0.8566675907956751, 0.8566675907956751, 0.8566279852667432, 0.8569844350271298, 0.8567468018535388]
+yValues_validate % [0.7594756227969425, 0.8217355142777932, 0.8415382787437127, 0.8426868390827359, 0.8482316131331934, 0.8489841181828983, 0.8517565052081271, 0.8519149273238544, 0.8535783595389916, 0.8552813972830607, 0.8557170581013109, 0.8556774525723791, 0.8562715355063567, 0.8569052239692662, 0.8565487742088795, 0.8569052239692662, 0.8566675907956751, 0.8566675907956751, 0.8566279852667432, 0.8569844350271298, 0.8567468018535388]
+errorBars_train % [0.7594756227969425, 0.8217355142777932, 0.8415382787437127, 0.8426868390827359, 0.8482316131331934, 0.8489841181828983, 0.8517565052081271, 0.8519149273238544, 0.8535783595389916, 0.8552813972830607, 0.8557170581013109, 0.8556774525723791, 0.8562715355063567, 0.8569052239692662, 0.8565487742088795, 0.8569052239692662, 0.8566675907956751, 0.8566675907956751, 0.8566279852667432, 0.8569844350271298, 0.8567468018535388]
+errorBars_validate % [0.7594756227969425, 0.8217355142777932, 0.8415382787437127, 0.8426868390827359, 0.8482316131331934, 0.8489841181828983, 0.8517565052081271, 0.8519149273238544, 0.8535783595389916, 0.8552813972830607, 0.8557170581013109, 0.8556774525723791, 0.8562715355063567, 0.8569052239692662, 0.8565487742088795, 0.8569052239692662, 0.8566675907956751, 0.8566675907956751, 0.8566279852667432, 0.8569844350271298, 0.8567468018535388]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]

@@ -1,0 +1,137 @@
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 2940      | False negetive : 3133         |
+| Someone actually is not there | False positive : 868      | True negetive : 18308         |
+Accuracy: 0.8415382787437127
+Precision: 0.7720588235294118
+Recall: 0.4841099950601021
+FPR: 0.04526491447642887
+FNR: 0.5158900049398979
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 351       | False negetive : 396          |
+| Someone actually is not there | False positive : 111      | True negetive : 2298          |
+Accuracy: 0.8393536121673004
+Precision: 0.7597402597402597
+Recall: 0.46987951807228917
+FPR: 0.0460772104607721
+FNR: 0.5301204819277109
+yValues_train % [0.8415382787437127]
+yValues_validate % [0.8415382787437127]
+errorBars_train % [0.0015397557470173684]
+errorBars_validate % [0.004379396527857571]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1]
+
+
+
+
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 3968      | False negetive : 2105         |
+| Someone actually is not there | False positive : 1554     | True negetive : 17622         |
+Accuracy: 0.8550833696384015
+Precision: 0.7185802245563202
+Recall: 0.6533838300675119
+FPR: 0.08103879849812265
+FNR: 0.34661616993248806
+
+
+
+
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 457       | False negetive : 290          |
+| Someone actually is not there | False positive : 207      | True negetive : 2202          |
+Accuracy: 0.8425221799746515
+Precision: 0.6882530120481928
+Recall: 0.6117804551539491
+FPR: 0.0859277708592777
+FNR: 0.38821954484605087
+yValues_train % [0.8415382787437127, 0.8550833696384015]
+yValues_validate % [0.8415382787437127, 0.8550833696384015]
+errorBars_train % [0.0015397557470173684, 0.001484280750330469]
+errorBars_validate % [0.004379396527857571, 0.004344168617693933]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1, 5]
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 4399      | False negetive : 1674         |
+| Someone actually is not there | False positive : 1420     | True negetive : 17756         |
+Accuracy: 0.8774604934848905
+Precision: 0.7559718164633098
+Recall: 0.7243536966902684
+FPR: 0.07405089695452649
+FNR: 0.2756463033097316
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 477       | False negetive : 270          |
+| Someone actually is not there | False positive : 213      | True negetive : 2196          |
+Accuracy: 0.846958174904943
+Precision: 0.691304347826087
+Recall: 0.6385542168674698
+FPR: 0.08841843088418432
+FNR: 0.3614457831325301
+yValues_train % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905]
+yValues_validate % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905]
+errorBars_train % [0.0015397557470173684, 0.001484280750330469, 0.0013826254957952644]
+errorBars_validate % [0.004379396527857571, 0.004344168617693933, 0.004293805378326132]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1, 5, 10]
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 4431      | False negetive : 1642         |
+| Someone actually is not there | False positive : 1022     | True negetive : 18154         |
+Accuracy: 0.8944908709255812
+Precision: 0.8125802310654685
+Recall: 0.7296229211262967
+FPR: 0.05329578639966625
+FNR: 0.27037707887370327
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 467       | False negetive : 280          |
+| Someone actually is not there | False positive : 163      | True negetive : 2246          |
+Accuracy: 0.8596324461343473
+Precision: 0.7412698412698413
+Recall: 0.6251673360107095
+FPR: 0.0676629306766293
+FNR: 0.3748326639892905
+yValues_train % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905, 0.8944908709255812]
+yValues_validate % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905, 0.8944908709255812]
+errorBars_train % [0.0015397557470173684, 0.001484280750330469, 0.0013826254957952644, 0.001295345697393202]
+errorBars_validate % [0.004379396527857571, 0.004344168617693933, 0.004293805378326132, 0.004142820063860242]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1, 5, 10, 12]
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 5113      | False negetive : 960          |
+| Someone actually is not there | False positive : 905      | True negetive : 18271         |
+Accuracy: 0.9261356885421205
+Precision: 0.8496178132269857
+Recall: 0.8419232669191503
+FPR: 0.04719440967876512
+FNR: 0.15807673308084966
+|                               | Intelligence says there   | Intelligence says not there   |
+|-------------------------------|---------------------------|-------------------------------|
+| Someone actually is there     | True positive : 481       | False negetive : 266          |
+| Someone actually is not there | False positive : 218      | True negetive : 2191          |
+Accuracy: 0.8466413181242078
+Precision: 0.6881258941344778
+Recall: 0.643908969210174
+FPR: 0.0904939809049398
+FNR: 0.35609103078982596
+yValues_train % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905, 0.8944908709255812, 0.9261356885421205]
+yValues_validate % [0.8415382787437127, 0.8550833696384015, 0.8774604934848905, 0.8944908709255812, 0.9261356885421205]
+errorBars_train % [0.0015397557470173684, 0.001484280750330469, 0.0013826254957952644, 0.001295345697393202, 0.0011028268939958785]
+errorBars_validate % [0.004379396527857571, 0.004344168617693933, 0.004293805378326132, 0.004142820063860242, 0.004297443925933009]
+seriesName % ['Training set accuracy', 'Validation set accuracy']
+xValues % [1, 5, 10, 12, 15]
+bhatnaa@3c22fb0ec6e6 MachineLearningCourse % 
